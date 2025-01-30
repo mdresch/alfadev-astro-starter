@@ -24,3 +24,14 @@ package-lock.json
 
 # ignore .astro directory
 .astro
+/.vs/alfadev-astro-starter/config/applicationhost.config
+/.vs/alfadev-astro-starter/FileContentIndex/1f8c7716-1c74-424a-8b52-275770c55356.vsidx
+/.vs/alfadev-astro-starter/FileContentIndex/27d61fbe-6d35-4369-8c48-4876f4bd3a95.vsidx
+/.vs/alfadev-astro-starter/FileContentIndex/0b8519c5-7d7e-472b-9ba9-9bc8587cfe7b.vsidx
+/.vs/alfadev-astro-starter/FileContentIndex/592ca367-3850-434e-a40c-0b4efae2fe0d.vsidx
+/.vs/alfadev-astro-starter/FileContentIndex/merges/73d828d3-007f-4671-b968-0af4112d6805.vsidx
+/.vs/alfadev-astro-starter/FileContentIndex/9abbc4af-5513-43af-b1ba-e99ee512e7c8.vsidx
+/.vs/slnx.sqlite
+/.vs/alfadev-astro-starter/FileContentIndex/bcacc67b-6751-48d4-b1da-b7bbec521bdb.vsidx
+/.vs/alfadev-astro-starter/FileContentIndex/bcee6efd-5e68-4759-8e17-04ec47e2626a.vsidx
+/.vs/alfadev-astro-starter/FileContentIndex/cc09bdaf-780f-4a4f-9163-b414253eca3c.vsidx
