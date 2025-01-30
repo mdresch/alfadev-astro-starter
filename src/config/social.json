@@ -1,11 +1,11 @@
 {
   "title": "Social",
-  "facebook": null,
-  "twitter": null,
-  "instagram": null,
-  "youtube": null,
-  "linkedin": "https://www.linkedin.com/in/diego-alfaro-saez-585ba2163/",
-  "github": "https://github.com/diego-alfadev",
+  "facebook": "https://www.facebook.com/menno.drescher",
+  "twitter": "https://x.com/MennoDre",
+  "instagram": "https://www.instagram.com/menno.drescher/",
+  "youtube": "https://www.youtube.com/@mennodrescher",
+  "linkedin": "https://www.linkedin.com/in/mennodrescher/",
+  "github": "https://github.com/mdresch",
   "gitlab": null,
   "medium": null,
   "codepen": null,
@@ -23,9 +23,9 @@
   "tiktok": null,
   "foursquare": null,
   "rss": null,
-  "email": "diego.alfadev@gmail.com",
+  "email": "menno.drescher@gmail.com",
   "phone": null,
   "address": null,
-  "skype": "https://skype.com/",
-  "website": null
+  "skype": null,
+  "website": "https://exceptional-cba-project.webflow.io/"
 }
