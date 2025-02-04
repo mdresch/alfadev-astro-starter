@@ -49,6 +49,10 @@
     {
       "name": "Changelog",
       "url": "/changelog"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     }
   ]
 }
