@@ -33,7 +33,7 @@ sections:
 
 ##key features
 features:
-  title: Why <span class="text-accent">alfadev-starter</span>?
+  title: Why <span class="text-accent">Self-Charging</span> Electric Vehicles.
   description: Because every content-driven page needs a lot boilerplate to initialize, and **we provide you with the tools and guidelines** needed to focus on what's important.
   feature_list:
     - icon: "box"  #icon package react-feather-icon [https://feathericons.com/]
@@ -64,10 +64,10 @@ features:
       title: Thermophotovoltaic
       content: Built with ***reusable components*** that simplify adding or editing sections of the page.
     - icon: "zap"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Performance-First
+      title: Rectennas
       content: Designed with <b class="text-text">best-in-class performance</b> metrics to improve the user experience.
     - icon: "layout"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Content-Centric
+      title: Hydrogen Fuel Cell
       content: Focused on delivering content seamlessly, making it ideal for <b class="text-text">portfolios, showcases, or landing pages</b>.
     - icon: "code"  #icon package react-feather-icon [https://feathericons.com/]
       title: Developer-Friendly
@@ -123,7 +123,7 @@ call_to_action:
   description: "Save yourself some time (and sanity). Use this template and act like you planned everything from scratch. We won't tell. **Just be sure to leave a star, please.**"
   button: 
     label: "Grab the Starter"
-    href: "https://github.com/diego-alfadev/alfadev-astro-starter"
+    href: "https://github.com/mdresch/alfadev-astro-starter"
     color: accent
 
 ---

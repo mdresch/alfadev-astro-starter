@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import BlogPostPreview from '../../components/BlogPostPreview.astro';
+import Base from '@/layouts/Base.astro';
+
+const posts = await getCollection('blog');
+---
+
+<Base>
+  <section class="blog">
+    <div class="container">
+      <h1 class="text-3xl font-bold mb-6">Blog</h1>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {posts.map(post => (
+          <BlogPostPreview 
+            image={post.data.image}
+            title={post.data.title} 
+            date={post.data.date} 
+            description={post.data.description} 
+            slug={post.slug} 
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>

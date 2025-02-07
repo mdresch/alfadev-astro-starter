@@ -1,0 +1,29 @@
+---
+// filepath: /c:/Users/menno/Source/Repos/alfadev-astro-starter/src/components/BlogPostPreview.astro
+export interface BlogPost {
+  title: string;
+  date: string;
+  description: string;
+  slug: string;
+  image: string;
+}
+
+const { title, date, description, slug, image } = Astro.props;
+---
+
+<article class="blog-post-preview">
+  {image && (
+    <img 
+      src={image} 
+      alt={title} 
+      class="w-full h-32 object-cover mb-4" 
+      width="100%" 
+      height="128px" 
+    />
+  )}
+  <h2 class="text-xl font-bold">
+    <a href={`/blog/${slug}`}>{title}</a>
+  </h2>
+  <p>{description}</p>
+  <p>{date}</p>
+</article>
