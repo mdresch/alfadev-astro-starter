@@ -12,6 +12,7 @@ import { ViewTransitions } from "astro:transitions";
 import { getEntry } from "astro:content";
 import type { PageType } from "@/content/page.types";
 import type { ContentEntryMap } from "astro:content";
+import Analytics from '@vercel/analytics/astro';
 
 const GTAG = import.meta.env.GTAG_ID
 
@@ -278,6 +279,7 @@ const _noindex =
 
       document.addEventListener("astro:after-swap", setTheme);
     </script>
+    <Analytics />
   </head>
   <body class="transition-colors duration-500">
     <TwSizeIndicator />
