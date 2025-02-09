@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://alfadev-astro-starter.vercel.app/sitemap-index.xml
 Disallow: /api/*

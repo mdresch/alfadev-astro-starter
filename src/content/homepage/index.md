@@ -7,38 +7,38 @@ banner:
   content: "A fully responsive astro starter repo, ideal for simple (yet laborious) content-driven pages or landings."  
   image: /images/SCEV - Placeholder 1.png
   buttons:
-    - label: Get the Code
+    - label: Get the Executive Summary
       href: "https://github.com/mdresch/"
       target: "_blank"
       icon: _GitHub
       addClasses: "w-full bg-gray-900 text-white hover:bg-accent dark:border-white/10 dark:border"
 
 sections:
-  - title: Tired of writing the same code over and over again?
-    content: "We've all been there... Setting up the same SEO, theming, and responsive layout boilerplate again and again. Say goodbye to that! <b class='text-accent'>alfadev-astro-starter</b> lets you jump straight into creating, skipping the repetitive groundwork."
+  - title: Introduction to Self-Charging Electric Vehicles <span class="text-secondary">(SCEV)</span>
+    content: <b class='text-accent'>Self-charging electric vehicles</b> <span class="text-secondary">(SCEVs)</span> represent the future of sustainable transportation, harnessing innovative technologies to recharge their batteries without relying solely on external power sources. These advancements not only extend driving ranges but also reduce the reliance on the conventional electrical grid. Here, we explore the <b class='text-accent'>top 50 self-charging EV technologies</b> that are revolutionizing the automotive industry.
     image: /images/SCEV - Placeholder 2.png
 
-  - title: This is not a library
-    content: It's a <b class='text-accent'>ready-to-go template</b>. No steep learning curves or dozens of new dependencies. Just the essentials to build content-driven pages with ease.<br/>If you're familiar with <span class="text-accent font-bold">Astro</span>, you are good to go.
+  - title: The Top 50 Self-Charging EV Technologies
+    content: Summarizing the top 50 <span class="text-accent font-bold">self-charging electric vehicle (EV) technologies</span> involves highlighting a wide range of innovative methods used to generate and store energy autonomously. These methods range from capturing <b class='text-accent'>kinetic energy</b>, harnessing <b class='text-accent'>solar power</b>, to utilizing <b class='text-accent'>thermal energy</b>. 
     image: /images/SCEV - Placeholder 3.png
 
-  - title: Optimized out of the box
-    content: Lightweight and fast. Packed with <span class="text-accent font-bold">Astro</span>, <span class="text-[#38bdf8] font-bold">tailwind</span> and <span class="text-[#e41c81] font-bold">Sass</span> goodness, so your pages load <b class='text-accent'>blazing fast</b>—right from the start. <br/> All the pages are configured in a way that are SEO-friendly and defined with markdown.
+  - title: Maximize <span class="text-secondary">efficiency</span> of energy conversion
+    content: Each approach is designed to maximize the <span class="text-secondary">efficiency</span> of <b class='text-accent'>energy</b> conversion and storage, ensuring that electric vehicles can maintain a steady charge without frequent reliance on external power sources. 
     image: /images/SCEV - Placeholder 4.png
 
-  - title: Looks great, day or night
-    content: "With <b class='text-accent'>built-in dark theme support</b>, your site will look amazing no matter what time of day your users visit. Or what their eyes prefer.<br/> <br/>Forget convoluted theming systems. alfadev-astro-starter keeps it <b class='text-accent'>simple and extensible</b>, so you can focus on your design and let the code work fori you."
+  - title: Top 50 Self Charging EVs Technologies
+    content: <span class="text-accent font-bold">Top 50</span> Self Charging Electric Vehicle Technologies (<span class="text-accent font-bold">SCEV Technologies</span>) provides a comprehensive overview of various innovative methods used to generate and store <b class='text-accent'>energy</b> autonomously in self-charging electric vehicles <span class="text-accent font-bold">SCEVs</span>). These technologies, among others, are revolutionizing the automotive industry by <span class="text-accent font-bold">extending</span> driving ranges, reducing reliance on the conventional electrical grid, and enhancing the overall <span class="text-accent font-bold">efficiency</span> and sustainability of electric vehicles.
     image: /images/SCEV - Placeholder 5.png
 
 
 ##key features
 features:
-  title: Why <span class="text-accent">Self-Charging</span> Electric Vehicles.
-  description: Because every content-driven page needs a lot boilerplate to initialize, and **we provide you with the tools and guidelines** needed to focus on what's important.
+  title: <span class="text-accent">Self-Charging</span> Electric Vehicles Technologies
+  description: Summarizing the top 50 <span class="text-accent font-bold">self-charging electric vehicle (EV) technologies</span> involves highlighting a wide range of innovative methods used to generate and store energy autonomously.
   feature_list:
     - icon: "box"  #icon package react-feather-icon [https://feathericons.com/]
       title: Solar
-      content: Avoid Complexity, small yet not useless. Loaded, but <b class="text-text">not overwhelming</b>.
+      content: Solar panels integrated into the vehicle's roof or bodywork harness sunlight to generate <b class="text-text">electricity</b> and charge the battery..
     - icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
       title: KERS
       content: Using the latest version and best practices of <span class="text-accent font-bold">Astro</span>, <span class="text-[#38bdf8] font-bold">tailwindcss</span> and <span class="text-[#e41c81] font-bold">Sass</span>

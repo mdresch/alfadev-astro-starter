@@ -14,11 +14,14 @@
     "format": "prettier -w ."
   },
   "dependencies": {
+    "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^2.1.1",
     "@astrojs/react": "^3.0.9",
     "@astrojs/rss": "^4.0.4",
-    "@astrojs/sitemap": "^3.0.5",
+    "@astrojs/sitemap": "^3.2.1",
     "@astrojs/tailwind": "^5.1.0",
+    "@sentry/astro": "^8.54.0",
+    "@spotlightjs/astro": "^2.4.3",
     "@vercel/analytics": "^1.4.1",
     "astro": "^4.16.9",
     "astro-auto-import": "^0.4.2",
