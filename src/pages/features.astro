@@ -5,6 +5,7 @@ import { getEntry } from "astro:content";
 
 const features = await getEntry("features", "index");
 const { Content } = await features.render();
+
 ---
 
 <Base>
