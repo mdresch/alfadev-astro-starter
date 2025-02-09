@@ -27,7 +27,7 @@ export default defineConfig({
   image: {
     service: sharpImageService(),
   },
-  integrations: [react(), sitemap({xslURL: '/sitemap.xsl'}), tailwind(), AutoImport({
+  integrations: [react(), sitemap(), tailwind(), AutoImport({
     // import react components to use in mdx
     imports: [
       "@/components/react/FeatherIcon.tsx",
