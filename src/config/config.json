@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "SCEV-Self-Charging-EVs",
-    "base_url": "https://astro-starter.alfadev.io",
+    "base_url": "https://alfadev-astro-starter.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
