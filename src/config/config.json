@@ -8,17 +8,17 @@
     "logo": "/images/logo_cba.jpg",
     "logo_width": "47",
     "logo_height": "47",
-    "logo_text": "SCEV-Self-Charging-EVs"
+    "logo_text": "SCEV-Self-Charging-EVs",
+    "GTAG_ID": "G-JKFXL31B1D"
   },
 
   "params": {
     "footer_description": "Building cool things, one line of code (and a lot of coffee) at a time. Got questions? Or just bored? Reach out!",
     "email": "menno.drescher@gmail.com",
-    "location": "Somewhere on Earth, where the Wi-Fi is decent and the coffee is strong.",
-    "phone": "+704-555-0127 (but let's be honest, email is faster)",
+    "location": "Somewhere in Amsterdam, where the Wi-Fi is decent and the coffee is hot.",
+    "phone": "+31-61006-3225 (but let's be honest, email is faster)",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 proudly crafted by [MD](https://github.com/mdresch)",
-    "GTAG_ID": "G-JKFXL31B1D"
+    "copyright": "Copyright © 2025 proudly crafted by [MD](https://github.com/mdresch)"
 },
 
   "metadata": {
