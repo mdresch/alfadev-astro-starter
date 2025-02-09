@@ -8,8 +8,7 @@
     "logo": "/images/logo_cba.jpg",
     "logo_width": "47",
     "logo_height": "47",
-    "logo_text": "SCEV-Self-Charging-EVs",
-    "GTAG": "G-JKFXL31B1D"
+    "logo_text": "SCEV-Self-Charging-EVs"
   },
 
   "params": {
@@ -27,5 +26,9 @@
     "meta_description": "SCEV-Self-Charging-EVs is a starter template for Astro, the modern static site generator for the modern web.",
     "meta_keywords": ["astro", "Astro Starter", "alfadev", "Diego Alfaro Sáez", "static site generator", "modern web", "astro template"],
     "meta_application_name": "SCEV-Self-Charging-EVs"
+  },
+    "GTAG_ID": {
+      "GTAG": "G-JKFXL31B1D"
   }
 }
+
