@@ -27,8 +27,7 @@
     "meta_keywords": ["astro", "Astro Starter", "alfadev", "Diego Alfaro Sáez", "static site generator", "modern web", "astro template"],
     "meta_application_name": "SCEV-Self-Charging-EVs"
   },
-    "GTAG_ID": {
-      "GTAG": "G-JKFXL31B1D"
-  }
+  "GTAG_ID": "G-JKFXL31B1D"
+
 }
 
