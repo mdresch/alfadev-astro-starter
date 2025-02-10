@@ -20,7 +20,7 @@ const call_to_action = homepage.data.call_to_action;
   <!-- multi section -->
   {
     sections && (
-      <section class="multi-section">
+      <section class="multi-section animate-fade-out">
         {sections.map((section) => (
           <Section section={section} />
         ))}
@@ -28,7 +28,9 @@ const call_to_action = homepage.data.call_to_action;
     )
   }
   <!-- key features -->
+<section class="animate-fade-in">
   <Features features={features} />
+</section>
   <!-- testimonial -->
   <Testimonial testimonial={testimonial} />
   <!-- call to action -->

@@ -41,19 +41,19 @@ features:
       content: Solar panels integrated into the vehicle's roof or bodywork harness sunlight to generate <b class="text-text">electricity</b> and charge the battery..
     - icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
       title: KERS
-      content: Using the latest version and best practices of <span class="text-accent font-bold">Astro</span>, <span class="text-[#38bdf8] font-bold">tailwindcss</span> and <span class="text-[#e41c81] font-bold">Sass</span>
+      content: Similar to regenerative braking, KERS captures energy from motion
     - icon: "search"  #icon package react-feather-icon [https://feathericons.com/]
       title: In-Wheel
-      content: Boost your site's visibility with <b class="text-text">built-in SEO optimizations</b>, including automatic sitemap generation using <a target='blank' href="https://docs.astro.build/es/guides/integrations-guide/sitemap/"><span class="text-accent font-bold underline">astrojs/sitemap</span></a>.
+      content: In-wheel maglev systems are an innovative technology that integrates magnetic levitation within the wheels of a vehicle. 
     - icon: "plus"  #icon package react-feather-icon [https://feathericons.com/]
       title: Suspension
-      content: Add or change content just by <b class="text-text">editing markdown files</b>, so it stays in one place regardless of the code.
+      content: This technology captures energy from the vehicle’s suspension movements and converts it to electricity.
     - icon: "coffee"  #icon package react-feather-icon [https://feathericons.com/]
-      title: "Supercapicitors"
-      content: Put you effort on what's important, not on small details. Dont worry about <span class="text-shadow-sm shadow-surface-contrast">***that damn shadow***</span>.
+      title: "Supercapacitors"
+      content: Supercapacitors store large amounts of energy and can rapidly discharge it to the battery when needed.
     - icon: "tool"  #icon package react-feather-icon [https://feathericons.com/]
       title: BMS
-      content: Every corner of the page <b class="text-text">can be easily changed</b> to fit your needs.
+      content: BMS optimize battery usage and longevity by efficiently managing charge cycles and energy distribution.
     - icon: "moon"  #icon package react-feather-icon [https://feathericons.com/]
       title: Nano Enchanced
       content: Fully supports ***dark theme*** with an easy-to-extend theming system.
