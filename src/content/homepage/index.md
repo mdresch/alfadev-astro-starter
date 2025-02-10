@@ -17,18 +17,22 @@ sections:
   - title: Introduction to Self-Charging Electric Vehicles <span class="text-secondary">(SCEV)</span>
     content: <b class='text-accent'>Self-charging electric vehicles</b> <span class="text-secondary">(SCEVs)</span> represent the future of sustainable transportation, harnessing innovative technologies to recharge their batteries without relying solely on external power sources. These advancements not only extend driving ranges but also reduce the reliance on the conventional electrical grid. Here, we explore the <b class='text-accent'>top 50 self-charging EV technologies</b> that are revolutionizing the automotive industry.
     image: /images/SCEV - Placeholder 2.png
+    alt: "Image showcasing self-charging electric vehicle technologies"
 
   - title: The Top 50 Self-Charging EV Technologies
     content: Summarizing the top 50 <span class="text-accent font-bold">self-charging electric vehicle (EV) technologies</span> involves highlighting a wide range of innovative methods used to generate and store energy autonomously. These methods range from capturing <b class='text-accent'>kinetic energy</b>, harnessing <b class='text-accent'>solar power</b>, to utilizing <b class='text-accent'>thermal energy</b>. 
     image: /images/SCEV - Placeholder 3.png
+    alt: "Image summarizing the top 50 self-charging electric vehicle technologies"
 
   - title: Maximize <span class="text-secondary">efficiency</span> of energy conversion
     content: Each approach is designed to maximize the <span class="text-secondary">efficiency</span> of <b class='text-accent'>energy</b> conversion and storage, ensuring that electric vehicles can maintain a steady charge without frequent reliance on external power sources. 
     image: /images/SCEV - Placeholder 4.png
+    alt: "Image illustrating the efficiency of energy conversion and storage in self-charging electric vehicles"
 
   - title: Top 50 Self Charging EVs Technologies
     content: <span class="text-accent font-bold">Top 50</span> Self Charging Electric Vehicle Technologies (<span class="text-accent font-bold">SCEV Technologies</span>) provides a comprehensive overview of various innovative methods used to generate and store <b class='text-accent'>energy</b> autonomously in self-charging electric vehicles <span class="text-accent font-bold">SCEVs</span>). These technologies, among others, are revolutionizing the automotive industry by <span class="text-accent font-bold">extending</span> driving ranges, reducing reliance on the conventional electrical grid, and enhancing the overall <span class="text-accent font-bold">efficiency</span> and sustainability of electric vehicles.
     image: /images/SCEV - Placeholder 5.png
+    alt: "Image showcasing top 50 self-charging electric vehicle technologies"
 
 
 ##key features
@@ -55,24 +59,35 @@ features:
       title: BMS
       content: BMS optimize battery usage and longevity by efficiently managing charge cycles and energy distribution.
     - icon: "moon"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Nano Enchanced
-      content: Fully supports ***dark theme*** with an easy-to-extend theming system.
+      title: Nano-Enhanced Batteries
+      content: Nanotechnology improves battery performance and energy density, enabling quicker charge cycles.
     - icon: "feather"  #icon package react-feather-icon [https://feathericons.com/]
       title: High Effiency Inverters
-      content: Fast and efficient. Every asset is optimized to ensure <b class="text-text">minimal load times</b>.
+      content: Inverters convert DC from the battery to AC for the motor with minimal energy loss.
     - icon: "layers"  #icon package react-feather-icon [https://feathericons.com/]
       title: Thermophotovoltaic
-      content: Built with ***reusable components*** that simplify adding or editing sections of the page.
+      content: Cells that convert thermal radiation directly into electrical energy.
     - icon: "zap"  #icon package react-feather-icon [https://feathericons.com/]
       title: Rectennas
-      content: Designed with <b class="text-text">best-in-class performance</b> metrics to improve the user experience.
+      content: Rectennas (rectifying antennas) play a crucial role in the development of SCEVs by enabling wireless power transmission
     - icon: "layout"  #icon package react-feather-icon [https://feathericons.com/]
       title: Hydrogen Fuel Cell
-      content: Focused on delivering content seamlessly, making it ideal for <b class="text-text">portfolios, showcases, or landing pages</b>.
+      content: Hydrogen fuel cells generate electricity through an electrochemical reaction between hydrogen and oxygen. 
     - icon: "code"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Developer-Friendly
-      content: Crafted for developers who value ***simplicity, flexibility, and modern*** tools.
-    
+      title: Advanced Thermal Management Systems
+      content: Systems that optimize temperature regulation for better battery performance.
+    - icon: "box"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Electrically Assisted Turbocharging
+      content: Using electric power to assist turbochargers, improving efficiency.
+    - icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Hybrid Solar-Hydrogen Systems
+      content: Combining solar power and hydrogen fuel cells for continuous energy generation.
+    - icon: "search"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Thermophotovoltaic Cells
+      content: Cells that convert thermal radiation directly into electrical energy.
+    - icon: "plus"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Energy Harvesting from Vehicle Body Flexing
+      content: Capturing energy from the flexing and movement of the vehicle’s body.
 
 
 
@@ -119,8 +134,8 @@ testimonial:
 
 ## Call to Action
 call_to_action:
-  title: "Because we love <span class='text-accent text-shadow-[0px_5px_15px]' >Astro</span> and <span class='text-[#38bdf8] text-shadow-[0px_5px_15px]'>Tailwind</span>."
-  description: "Save yourself some time (and sanity). Use this template and act like you planned everything from scratch. We won't tell. **Just be sure to leave a star, please.**"
+  title: "Because <span class='text-accent text-shadow-[0px_5px_15px]' >SCEV</span> and <span class='text-[#38bdf8] text-shadow-[0px_5px_15px]'>Technologies</span> can be rewarding compensate you"
+  description: The landscape of self-charging EV technologies is rapidly evolving, with innovations continually enhancing the efficiency and sustainability of electric vehicles. These top 50 technologies not only promise a greener future but also showcase the relentless pursuit of advancement in the realm of renewable energy and sustainable transportation.
   button: 
     label: "Grab the Starter"
     href: "https://github.com/mdresch/alfadev-astro-starter"
