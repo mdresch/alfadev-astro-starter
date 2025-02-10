@@ -134,7 +134,7 @@ testimonial:
 
 ## Call to Action
 call_to_action:
-  title: "Because <span class='text-accent text-shadow-[0px_5px_15px]' >SCEV</span> and <span class='text-[#38bdf8] text-shadow-[0px_5px_15px]'>Technologies</span> can be rewarding compensate you"
+  title: "Because <span class='text-accent text-shadow-[0px_5px_15px]' >SCEV</span> and <span class='text-[#38bdf8] text-shadow-[0px_5px_15px]'>Technologies</span> can be rewarding and compensate you. When you arrive home fully charged"
   description: The landscape of self-charging EV technologies is rapidly evolving, with innovations continually enhancing the efficiency and sustainability of electric vehicles. These top 50 technologies not only promise a greener future but also showcase the relentless pursuit of advancement in the realm of renewable energy and sustainable transportation.
   button: 
     label: "Grab the Starter"
